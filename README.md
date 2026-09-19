@@ -40,3 +40,7 @@ Os dados utilizados no projeto são fictícios e foram estruturados exclusivamen
 ## 📌 Observação
 
 Este projeto possui finalidade demonstrativa e faz parte do portfólio de projetos em Business Intelligence e Análise de Dados.
+
+## 📁 Arquivo do projeto
+O arquivo .pbix está disponível neste repositório para consulta e exploração do modelo desenvolvido no Power BI Desktop.
+Dados: fictícios e utilizados exclusivamente para fins demonstrativos.
